@@ -1,0 +1,31 @@
+html{
+  font-size: 20;
+  font-family: Times new roman;
+}
+
+
+h1 {
+  color: blue;
+}
+h2 {
+  color: purple;
+}
+h3{
+  color: red;
+}
+h4{
+  color: blue;
+}
+h5{
+  color: red;
+}
+h6{
+  color: blue;
+}
+body {
+    border: 8px dashed blue;
+}
+
+body {
+  background-image: linear-gradient(to right, orange , pink);
+}
